@@ -3,7 +3,7 @@
 /**
  * Calculate the total price of items in a shopping cart
  * @param  array $items - an associative array containing items
- * @return void returns total price of the items 
+ * @return float returns total price of the items 
  */ 
 
 
